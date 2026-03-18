@@ -21,6 +21,10 @@ Senior Technologist, Advisor. Founder at [All Tuner Labs](https://alltuner.com).
 - [**Tech Diet Club**](https://davidpoblador.com/blog/) — Practical tech insights, system design decisions, and architecture patterns
 - [**Fils per randa**](https://poblador.cat/blog/) — Reflexions sobre tecnologia que realment compten
 
+## Support
+
+If you find any of these projects useful, consider [sponsoring our work](https://alltuner.com/sponsor/) via [GitHub Sponsors](https://github.com/sponsors/alltuner) or [Buy Me a Coffee](https://buymeacoffee.com/alltuner).
+
 ## Links
 
 - [davidpoblador.com](https://davidpoblador.com)
