@@ -4,10 +4,10 @@ Senior Technologist, Advisor. Founder at [All Tuner Labs](https://alltuner.com).
 
 ## Some of my projects
 
-- 🏭 [**Factory Floor**](https://factory-floor.com) — AI-powered development workspace for macOS with integrated git worktrees and Claude Code
-- 🌙 [**a-clapar.cat**](https://a-clapar.cat) — Nightly AI-narrated bedtime stories podcast in Catalan
+- 🏭 [**Factory Floor**](https://factory-floor.com) ([GitHub](https://github.com/alltuner/factoryfloor)) — AI-powered development workspace for macOS with integrated git worktrees and Claude Code
+- 🌙 [**a-clapar.cat**](https://a-clapar.cat) ([GitHub](https://github.com/alltuner/a-clapar)) — Nightly AI-narrated bedtime stories podcast in Catalan
 - 🎙️ [**Castuner**](https://castuner.com) — A platform to aid creators in reaching their audiences
-- ⏱️ [**Shiftuner**](https://shiftuner.com) — Compliance-focused time tracking for Spanish companies
+- ⏱️ [**Shiftuner**](https://shiftuner.com) ([GitHub](https://github.com/alltuner/shiftuner)) — Compliance-focused time tracking for Spanish companies
 - 🚆 [**retards.cat**](https://retards.cat) — Real-time schedules, delays and route maps for Barcelona's Rodalies
 - ⚡ [**Vibetuner**](https://github.com/alltuner/vibetuner) — Production-ready FastAPI scaffolding with HTMX and OAuth
 - 📦 [**uv-version-bumper**](https://github.com/alltuner/uv-version-bumper) — GitHub Action to bump uv-managed Python project versions
