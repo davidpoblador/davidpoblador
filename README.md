@@ -4,6 +4,7 @@ Senior Technologist, Advisor. Founder at [All Tuner Labs](https://alltuner.com).
 
 ## Some of my projects
 
+- 🏭 [**Factory Floor**](https://factory-floor.com) — AI-powered development workspace for macOS with integrated git worktrees and Claude Code
 - 🌙 [**a-clapar.cat**](https://a-clapar.cat) — Nightly AI-narrated bedtime stories podcast in Catalan
 - 🎙️ [**Castuner**](https://castuner.com) — A platform to aid creators in reaching their audiences
 - ⏱️ [**Shiftuner**](https://shiftuner.com) — Compliance-focused time tracking for Spanish companies
