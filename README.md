@@ -10,6 +10,7 @@ Senior Technologist, Advisor. Founder at [All Tuner Labs](https://alltuner.com).
 - ⏱️ [**Shiftuner**](https://shiftuner.com) — Compliance-focused time tracking for Spanish companies
 - 🚆 [**retards.cat**](https://retards.cat) — Real-time schedules, delays and route maps for Barcelona's Rodalies
 - ⚡ [**Vibetuner**](https://vibetuner.alltuner.com/) ([GitHub](https://github.com/alltuner/vibetuner)) — Production-ready FastAPI scaffolding with HTMX and OAuth
+- 🔀 [**Switchyard**](https://github.com/alltuner/switchyard) — Local Docker registry that syncs images to a central registry in the background
 - 📦 [**uv-version-bumper**](https://github.com/alltuner/uv-version-bumper) — GitHub Action to bump uv-managed Python project versions
 - 🐚 [**mise-completions-sync**](https://mise-completions.alltuner.com/) ([GitHub](https://github.com/alltuner/mise-completions-sync)) — Sync shell completions for tools managed by mise
 - 🔐 [**Vaultuner**](https://vaultuner.alltuner.com/) ([GitHub](https://github.com/alltuner/vaultuner)) — Secrets management toolkit for development workflows
