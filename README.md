@@ -19,8 +19,8 @@ Senior Technologist, Advisor. Founder at [All Tuner Labs](https://alltuner.com).
 
 ## Writing
 
-- [**Tech Diet Club**](https://davidpoblador.com/blog/) — Practical tech insights, system design decisions, and architecture patterns
-- [**Fils per randa**](https://poblador.cat/blog/) — Reflexions sobre tecnologia que realment compten
+- [**Writings**](https://davidpoblador.com/blog/) — A blog about technology that works: systems, AI, companies, and the occasional rant
+- [**Escrits**](https://poblador.cat/blog/) — Un blog sobre tecnologia que funciona: sistemes, IA, empreses i alguna queixa ocasional
 
 ## Support
 
